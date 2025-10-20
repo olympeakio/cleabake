@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #66000d;
+  --color-secondary: #dfc6bc;
+  --color-bg: #f3efe6;
+  --color-dark: #161213;
+}
+
+body {
+  @apply bg-background text-dark font-body;
+}
+
+h1,h2,h3,h4,h5 {
+  @apply font-heading text-primary;
+}
+
+p,span {
+  @apply font-body;
+}

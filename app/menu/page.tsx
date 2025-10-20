@@ -1,0 +1,1 @@
+export default function Menu() {return (<div className='p-10 text-center'><h1>Our Menu</h1><p>Fresh pastries and coffee</p></div>);}

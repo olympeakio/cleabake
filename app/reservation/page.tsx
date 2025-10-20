@@ -1,0 +1,1 @@
+export default function Reservation() {return (<div className='p-10 text-center'><h1>Reservation</h1><p>Book a table</p></div>);}

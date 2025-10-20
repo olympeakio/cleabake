@@ -1,0 +1,1 @@
+export default function Home() {return (<div className='p-10 text-center'><h1>Welcome to Cléa Bake</h1><p>Artisan bakery & café</p></div>);}

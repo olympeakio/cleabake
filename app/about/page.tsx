@@ -1,0 +1,1 @@
+export default function About() {return (<div className='p-10 text-center'><h1>About Us</h1><p>Crafting bakery goods with love.</p></div>);}
